@@ -55,6 +55,9 @@ u dont like me / any of my friends.
 ######
 <img width="360" alt="Image" src="https://github.com/user-attachments/assets/7c3a8d3a-e0c2-4b53-b8ad-b39a0ef28cc2" />
 
+#####
+<img width="367" alt="Image" src="https://github.com/user-attachments/assets/8a0d6b02-c272-4874-91b6-b7a4698b0863" />
+
 ###
 
 <img width="300" alt="Image" src="https://github.com/user-attachments/assets/44fe1823-6052-4549-a6fe-fa8b9928a24f" />
